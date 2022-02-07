@@ -12,9 +12,15 @@ Problems-
 
 
 Deliverables-
+
 1.To build a model for predicting the price of resell cars using linear Regression machine learning algorithm.
+
 2.	Considerable number of reliable attributes is to be consider to uplift the accuracy of the model.
+
 3.	Steps that we considered 
+      
       I.	Understanding and exploitation of data
+      
       II.	Cleaning of Data
+      
       III.	Building of Model and evaluation
