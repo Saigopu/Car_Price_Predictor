@@ -1,4 +1,4 @@
-# Car_Price_Predictor
+# Used_Car_Price_Predictor
 This is IBM Batch2 Group 8 project
 
 ABSTRACT OF USED CAR PRICE PREDICTION MODEL USING LINEAR REGRESSION
